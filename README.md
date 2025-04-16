@@ -40,10 +40,14 @@
 **Business Outcomes:**  
 - ⚡ 30% reduction in manual tasks  
 - 💵 $15K/year saved on IT maintenance  
-- 🚀 2x more users during peak sales  
+- 🚀 2x more users during peak sales
+
+Check the full Case Study here
+| **[Database Migration](https://github.com/Atudelaf/Quality-Items-Cloud-Migration-Case/blob/main/Quality_Items_Overview-Adrian_Tudela.pdf)** |
 
 ## 4. Lessons Learned  
 ```diff
 + Agile execution (2-week sprints) minimized disruption  
 + Stakeholder training critical for adoption  
 ! Azure Cost Management prevented budget overruns
+
